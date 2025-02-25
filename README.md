@@ -12,6 +12,7 @@ By leveraging **big data and predictive analytics**, this research helps **polic
 
 ## **📊 Dataset Details**
 - **Source**: Colorado Department of Transportation (CDOT)
+- [Download the dataset here](https://www.codot.gov/safety/traffic-safety/data-analysis/crash-data)
 - **Timeframe**: 2007 - 2022
 - **Total Records**: **1,627,682 accidents**
 - **Features per Record**: **84 attributes** including:
